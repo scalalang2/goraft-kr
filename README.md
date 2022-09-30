@@ -17,3 +17,6 @@ Raft의 등장 이전에는 분산 시스템의 거장 Lesile Lamport에 의해 
 여기서도 우리는 새로운 코드를 작성하는 것 보다는 [이 블로그](https://eli.thegreenplace.net/2020/implementing-raft-part-0-introduction/)에서 많은 내용을 참고해서 만들고자 합니다.
 
 그럼 시작해볼까요?
+
+### 학습 레퍼런스
+* [1] [Paxos보다 쉬운 Raft Consensus](https://medium.com/curg/raft-consensus-%EC%9D%B4%ED%95%B4-%EA%B0%80%EB%8A%A5%ED%95%9C-%ED%95%A9%EC%9D%98-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%97%AC%EC%A0%95-f7ecb9f450ab)
