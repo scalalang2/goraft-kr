@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+package core.server;
+
+option go_package = "core/server;server";
+
+message LogEntry {
+  string command = 1;
+  int64 term = 2;
+}
